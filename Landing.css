@@ -120,10 +120,6 @@ h2 {
     justify-content: center;
 }
 
-.features {
-
-}
-
 .accessibility {
     display: flex;
     justify-content: center;
@@ -135,6 +131,15 @@ h2 {
 
 .pricing {
 
+}
+
+.product {
+
+}
+
+.support {
+    display: flex;
+    justify-content: center;
 }
 
 #form {
