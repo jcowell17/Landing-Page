@@ -20,6 +20,7 @@ body {
 #page-wrapper {
     position: relative;
 }
+
 #header {
     position: fixed;
     display: flex;
@@ -90,7 +91,7 @@ a {
     text-decoration: none;
 }
   
-  @media (max-width: 650px) {
+@media (max-width: 650px) {
     ul {
       margin: 0;
       width: 100%;
@@ -99,10 +100,11 @@ a {
       align-items: center;
       text-align: center;
     }
-    nav link {
+  }
+    
+nav link {
       padding-bottom: 5px;
     }
-  }
 
 h2 {
     margin-top: 160px;
